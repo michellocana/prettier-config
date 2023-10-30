@@ -1,0 +1,16 @@
+{
+  "name": "@michellocana/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michellocana/prettier-config.git"
+  },
+  "keywords": [],
+  "author": "Michell Ocaña",
+  "license": "ISC" ,
+  "peerDependencies": {
+    "prettier": ">=2.7.1 <3"
+  }
+}
